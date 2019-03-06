@@ -1,16 +1,16 @@
-# Bootcamp Project #1
-
-> **Project Title**
-
-![FLIP.IMG](./assets/images/project_logo.png)
+# Memory card game
 ## Superhero image matching game ##
-See the project [live](https://juanidiaz.github.io/project1/)!
+![FLIP.IMG](./assets/images/project_logo.png)
 
-> **Team Members**
+See the project [live](https://juanidiaz.github.io/MemoryGame/)!
 
+> **Cretaed by**
 - Tony Green (https://github.com/AnthonyVerde)
 - Alexis Sanabria (https://github.com/alexisyepes)
-- Juan I Diaz (https://github.com/juanidiaz)
+- Juan I Diaz (jdi@idiaz.ca)
+
+> **Date:** January 2019
+
 
 > **Project Description**
 
@@ -28,24 +28,6 @@ Our web version of the popular memory card game where the objective is to collec
 
 - **Super Hero API** (http://superheroapi.com/) for the images on the cards.
 - **REST Countries** (https://restcountries.eu/) for the flags in the leader board.
-
-> **Rough breakdown of tasks**
-
-- Basic
-    - Create mockups
-    - Create Firebase schema and logic
-    - Find APIs for images and flags
-
-- Structure
-    - Create HTML skeleton
-
-- Logic
-    - Create JS basic structure
-    - Modal creation and testing
-    - API handlers
-
-- Final
-    - Testing, tweaking and release :-)
 
 > **Sketch of product**
 
